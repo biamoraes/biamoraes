@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Bianca</h1>
 
 <p align="center">
-  <img src="assets/sua-imagem.png" alt="Bianca Rodrigues de Moraes" width="200"/>
+  <img src="assets/minha-foto.png" alt="" width="200"/>
 </p>
 
 ### 👩‍💻 Sobre mim
